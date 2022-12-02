@@ -1,11 +1,8 @@
 # Project-2021
 Requirements Management
 
-MyBody is an e-commerce website. Your virtual mannequin is created exactly with
-your body measurements in the virtual environment. It allows you to see the clothes
-you want to buy in your own size in a virtual environment.
-
-· Requirements Management
-· System Development
-· Use Case Scenarios
-· STORYBOARD
+-RandevuAl.com
+RandevuAL project is a system where the queues in front of the hospitals are reduced,
+patients, physicians and the hospital use their time better, on the other hand, with the
+QR code system, patients can instantly create a patient record by activating the
+current and personalized QR Code when they come to the hospital.
