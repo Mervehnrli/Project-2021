@@ -1,5 +1,5 @@
 # Project-2021
-RandevuAl, Requirements Management
+Requirements Management
 
 -RandevuAl.com
 RandevuAL project is a system where the queues in front of the hospitals are reduced,
